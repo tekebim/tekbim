@@ -1,21 +1,21 @@
 # Hi, I'm Michael Rabet, a passionate Web Developer from France.
-#### 🎓 Student at Digital Campus Paris - France (Paris)
-    Master's degree Tech Lead until 09/2022
 
-#### Actually Working at the agency Elle&La - France (Paris)
+#### Actually Working at the agency 148 - France (Paris) as Full stack web developper
 
 [![Linkedin: michael-rabet](https://img.shields.io/badge/-michaelrabet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-rabet/)](https://www.linkedin.com/in/michael-rabet/)
 [![GitHub tekebim](https://img.shields.io/github/followers/tekebim?label=follow&style=social)](https://github.com/tekebim)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tekebim)
 
+[Visit my online resume](https://resume.tekmedias.com/)
+
 ## 🔧 Languages that I'm using frequently
  - PHP
  - Javascript
- - SQL (MySQL) / NoSQL (firebase)
+ - MySQL / NoSQL (firebase)
  - CSS / SCSS
 
 ## 🔧 Tools & Framework 
- - CakePHP 3
+ - Laravel
  - Symfony 4
  - Wordpress (Bedrock / Sage)
  - React.js
